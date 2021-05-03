@@ -1,0 +1,9 @@
+sncf token : a3e13cfc-85f7-4f92-bf86-3bd444febf56
+nativia token : bb817170-a65a-47ec-ab02-31818a51cd25
+
+
+html : https://api.sncf.com/v1/coverage/sncf/disruptions
+
+http://canaltp.github.io/navitia-playground/play.html?request=https%3A%2F%2Fapi.sncf.com%2Fv1%2Fcoverage%2Fsncf%2Fdisruptions%3F
+
+Exemple : https://softwarehut.com/blog/what-you-achieve-with-open-data-transport-api/
